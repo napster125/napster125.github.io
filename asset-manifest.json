@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.138f480d.css",
+    "main.js": "/static/js/main.ac1470f0.js",
+    "static/js/488.332dee73.chunk.js": "/static/js/488.332dee73.chunk.js",
+    "static/media/home-cow.svg": "/static/media/home-cow.05237e69d13d838b17b4f09540c0ef10.svg",
+    "static/media/home-cia-logo.svg": "/static/media/home-cia-logo.b916b8557b9e03919ef770dec6f09a76.svg",
+    "static/media/ibm-plex-mono-latin-400-normal.woff2": "/static/media/ibm-plex-mono-latin-400-normal.57685f70bce71bc2281d.woff2",
+    "static/media/ibm-plex-mono-latin-ext-400-normal.woff2": "/static/media/ibm-plex-mono-latin-ext-400-normal.4eb454f797fc14173977.woff2",
+    "static/media/ibm-plex-mono-latin-400-normal.woff": "/static/media/ibm-plex-mono-latin-400-normal.a249eaef7f811a5b3ef8.woff",
+    "static/media/ibm-plex-mono-latin-ext-400-normal.woff": "/static/media/ibm-plex-mono-latin-ext-400-normal.9e8e59cd24901250b690.woff",
+    "static/media/ibm-plex-mono-cyrillic-400-normal.woff2": "/static/media/ibm-plex-mono-cyrillic-400-normal.6ac19c59b273fe60dfcc.woff2",
+    "static/media/ibm-plex-mono-cyrillic-400-normal.woff": "/static/media/ibm-plex-mono-cyrillic-400-normal.c348deac43fa5748edea.woff",
+    "static/media/ibm-plex-mono-cyrillic-ext-400-normal.woff2": "/static/media/ibm-plex-mono-cyrillic-ext-400-normal.bbad4d1918b96229653b.woff2",
+    "static/media/ibm-plex-mono-vietnamese-400-normal.woff2": "/static/media/ibm-plex-mono-vietnamese-400-normal.530da8a08402532b9ded.woff2",
+    "static/media/ibm-plex-mono-cyrillic-ext-400-normal.woff": "/static/media/ibm-plex-mono-cyrillic-ext-400-normal.18dd695e5b1103c22279.woff",
+    "static/media/ibm-plex-mono-vietnamese-400-normal.woff": "/static/media/ibm-plex-mono-vietnamese-400-normal.442fb799b2a313edbc10.woff",
+    "static/media/home-question.svg": "/static/media/home-question.252aaef4357f723064f8b073878c4257.svg",
+    "static/media/home-accessibility.svg": "/static/media/home-accessibility.96fb8c9d7b21f26f16d96b8f3d32832c.svg",
+    "index.html": "/index.html",
+    "static/media/home-diamond.svg": "/static/media/home-diamond.6dc218381a430533ea9db58645104b11.svg",
+    "main.138f480d.css.map": "/static/css/main.138f480d.css.map",
+    "main.ac1470f0.js.map": "/static/js/main.ac1470f0.js.map",
+    "488.332dee73.chunk.js.map": "/static/js/488.332dee73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.138f480d.css",
+    "static/js/main.ac1470f0.js"
+  ]
+}
